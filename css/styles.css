@@ -11257,6 +11257,7 @@ header.masthead .masthead-heading {
 .left-section {
    display: flex;
    align-items: center;
+   flex: 1 1 40%;
 }
 .left-section img {
    width: 80px;
@@ -11264,6 +11265,7 @@ header.masthead .masthead-heading {
    margin-right: 15px;
 }
 .right-section {
+   flex: 1 1 50%;
    max-width: 600px;
    text-align: justify;
 }
