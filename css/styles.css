@@ -11269,16 +11269,6 @@ header.masthead .masthead-heading {
    max-width: 600px;
    text-align: justify;
 }
-@media (max-width: 768px) {
-    .container {
-        flex-direction: column;
-        text-align: center;
-    }
-    .left-section {
-        justify-content: center;
-        margin-bottom: 20px;
-    }
-}
 section#contact {
   background-color: #212529;
   background-image: url("../assets/img/map-image.png");
